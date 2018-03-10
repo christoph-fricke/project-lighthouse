@@ -1,9 +1,23 @@
-# Projekt Lytehouse
-### Umsetzung des MVC Patterns, Decomposition:
-Please Check out Documentation.pdf in the root Folder.
+# Project Lighthouse
+### What is this?
+This project was completed as a task given from university.
+The goal was to create a implementation of breakout that is
+playable add so called [lighthouse](#What is the lighthouse?).
+We went a little bit further and added a little end boss to our
+implementation. The game can be played at a computer or at the
+lighthouse. However the last option is not available to the
+public since the lighthouse is only accessible for playing during
+private events. That being said you can still play this game on your
+computer. Just download the
+[jar](https://https://github.com/christoph-fricke/project-lighthouse/blob/master/Breakout.jar)
+and start playing.
 
-<b>Note:</b>  Please unzip the File before running Breakout.jar. Please run Configurator.jar before running Breakout.jar.
-
+### What is the lighthouse?
+The lighthouse is a little skyscraper at the [Christan-Albrechts-University zu Kiel](http://www.uni-kiel.de/).
+During a student project all windows of the skyscraper where supplied with
+LED strips which led to the effect that the windows glow like pixels of a monitor.
+Each "pixel" can be controlled individually so it is basically a big computer monitor.
+More information can be found [here](http://www.uni-kiel.de/pressemeldungen/?pmid=2015-415-lighthouse-gestartet). 
 
 ### Background Story
 Your ship has crashed on the planet "35367", home planet of the mysterious BBlocks.
