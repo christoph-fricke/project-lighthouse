@@ -2,7 +2,7 @@
 ### What is this?
 This project was completed as a task given from university.
 The goal was to create a implementation of breakout that is
-playable on so called lighthouse.
+playable on a so called lighthouse.
 We went a little bit further and added a little end boss to our
 implementation. The game can be played at a computer or at the
 lighthouse. However the last option is not available to the
